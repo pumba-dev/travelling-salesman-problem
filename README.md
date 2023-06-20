@@ -36,32 +36,29 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/pumba-dev">
-        <img src="https://static.wikia.nocookie.net/disneypt/images/c/cf/It_means_no_worries.png/revision/latest?cb=20200128144126&path-prefix=pt" width="100px;" alt="Foto do PumbaDev no GitHub"/><br>
+        <img src="https://static.wikia.nocookie.net/disneypt/images/c/cf/It_means_no_worries.png/revision/latest?cb=20200128144126&path-prefix=pt" width="100px;" height="100px;" alt="Foto do PumbaDev no GitHub"/><br>
         <sub>
           <b>Eu Mesmo</b>
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/DevUnusual">
-        <img src="https://media.licdn.com/dms/image/D4E35AQEd0JmzsQaB-Q/profile-framedphoto-shrink_800_800/0/1657216096553?e=1687827600&v=beta&t=L0OIkd4teTlxiboc9GH1ozX3xDJaEEy3dLKGQHENlHU" width="100px;" alt="Foto do Carlos Meneses"/><br>
+        <img src="https://media.licdn.com/dms/image/D4E35AQEd0JmzsQaB-Q/profile-framedphoto-shrink_800_800/0/1657216096553?e=1687827600&v=beta&t=L0OIkd4teTlxiboc9GH1ozX3xDJaEEy3dLKGQHENlHU" width="100px;" height="100px;" alt="Foto do Carlos Meneses"/><br>
         <sub>
           <b>Carlos Meneses</b>
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/usernamegran">
-        <img src="https://avatars.githubusercontent.com/u/37776927?v=4" width="100px;" alt="Foto do Gabriel Reis"/><br>
+        <img src="https://avatars.githubusercontent.com/u/37776927?v=4" width="100px;" height="100px;" alt="Foto do Gabriel Reis"/><br>
         <sub>
           <b>Gabriel Reis</b>
         </sub>
       </a>
     </td>
+
   </tr>
 </table>
 
