@@ -1,4 +1,4 @@
-# Problema do Subarranjo Máximo
+# Problema do Caixeiro Viajante
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pumba-dev/travelling-salesman-problem?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pumba-dev/travelling-salesman-problem?style=for-the-badge)
