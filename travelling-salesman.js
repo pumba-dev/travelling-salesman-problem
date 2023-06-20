@@ -1,17 +1,17 @@
 const k = Number.POSITIVE_INFINITY;
-const graph = [
-  [0, 2, k, 3, 6],
-  [2, 0, 4, 3, k],
-  [k, 4, 0, 7, 3],
-  [3, 3, 7, 0, 3],
-  [6, k, 3, 3, 0],
-];
 // const graph = [
-//   [0, 5, 3, 8],
-//   [5, 0, 2, 1],
-//   [3, 2, 0, 1],
-//   [8, 1, 1, 0],
+//   [0, 2, k, 3, 6],
+//   [2, 0, 4, 3, k],
+//   [k, 4, 0, 7, 3],
+//   [3, 3, 7, 0, 3],
+//   [6, k, 3, 3, 0],
 // ];
+const graph = [
+  [0, 5, 3, 8],
+  [5, 0, 2, 1],
+  [3, 2, 0, 1],
+  [8, 1, 1, 0],
+];
 
 const numCidades = graph.length;
 
@@ -75,7 +75,7 @@ function addInitialNode(array) {
 function calcRoutesValues(permutations, grafh) {
   let permutationsValues = [];
 
-  for (let i = 0; i < permutations.length - 1; i++) {
+  for (let i = 0; i < permutations.length; i++) {
     const permutation = permutations[i];
     let value = 0;
 
