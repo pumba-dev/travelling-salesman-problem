@@ -74,4 +74,4 @@ Entre em contato para se tornar um contribuidor.
 
 Copyright © 2023 Pumba Developer
 
-[⬆ Voltar ao topo](#travelling-salesman-problem)<br>
+[⬆ Voltar ao topo](#)<br>
