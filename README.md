@@ -10,6 +10,11 @@
 
 > O problema do caixeiro-viajante tenta determinar a menor rota para percorrer todos os nós de um grafo conectado, retornando ao nó de origem. Ele é um problema de otimização NP-difícil inspirado na necessidade dos vendedores em realizar entregas em diversos locais no menor tempo possível.
 
+## 📖 Documentação
+
+- [Download do Artigo](Artigo-Problema-do-Caixeiro-Viajante.pdf)
+- [Download do Slide - Força Bruta](Slide-Caixeiro-Viajante.pdf)
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
