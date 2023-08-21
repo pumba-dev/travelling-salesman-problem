@@ -14,6 +14,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
+- [`< Git >`](https://git-scm.com/)
 - [`< NodeJS >`](https://nodejs.org/)
 
 ## 🚀 Baixando e Rodando o Projeto
@@ -25,7 +26,9 @@ git clone https://github.com/pumba-dev/travelling-salesman-problem.git
 
 cd travelling-salesman-problem
 
-node travelling-salesman.ts
+node brute-force.js
+
+node heuristic-solution.js
 ```
 
 ## 🤝 Colaboradores
